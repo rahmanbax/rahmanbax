@@ -1,7 +1,4 @@
--👋 Hi, I’m Abdurrahman Baasyir
--👀 I’m interested in Web Development and UI/UX Design
--🌱 I’m currently learning ReactJS and UI/UX
--📫 Reach me at basyirahman@gmail.com
+👋 Hi, I’m Abdurrahman Baasyir
 
 <!---
 rahmanbax/rahmanbax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
